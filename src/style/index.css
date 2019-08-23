@@ -1,0 +1,8 @@
+.van-nav-bar {
+  background-color: #3296fa;
+  height: 60px;
+  line-height: 60px;
+}
+.van-nav-bar .van-nav-bar__title {
+  color: #fff;
+}
